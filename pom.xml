@@ -12,6 +12,7 @@
     <sonar.password>XVide9hvKG7B</sonar.password>
     <sonar.exclusions>org/binarytherapy/generated/*/, **/GuiceBindComposer.java</sonar.exclusions>
     <sonar.dynamic>reuseReports</sonar.dynamic>
+    <docker.host.url>http://34.106.249.163</docker.host.url>
   </properties>
   
   <dependencies>
